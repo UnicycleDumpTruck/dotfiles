@@ -24,6 +24,8 @@ $docker_context\
 [](fg:blue bg:purple)\
 $time\
 [ ](fg:purple)\
+$fill\
+$cmd_duration\
 $line_break$character"""
 
 palette = 'catppuccin_mocha'
